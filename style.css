@@ -1,0 +1,50 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+
+*{
+    box-sizing: border-box;
+  }
+  
+  /******************************************
+  /* LAYOUT
+  /*******************************************/
+  
+  
+  body{
+    text-align: center;
+    font-size: 1.3rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 150vh;
+    background: linear-gradient(lightblue,white);
+  }
+
+ 
+  
+  /******************************************
+  /* ADDITIONAL STYLES
+  /*******************************************/
+  input{
+    width: 200px;
+
+  }
+
+  button{
+    margin: 20px auto;
+    display: block;
+  }
+
+  img{
+    max-height: 300px;
+
+  }
+
+  h2{
+    margin-bottom: 0;
+  }
+
+  table{
+    margin: 20px auto;
+    
+  }
